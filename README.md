@@ -17,7 +17,7 @@
 
 ## About Me
 
-I build systems that turn messy raw data into actionable intelligence — from designing ETL pipelines and data warehouses to training and deploying machine learning models in production.
+I build systems that turn messy raw data into actionable intelligence. From designing ETL pipelines and data warehouses to training and deploying machine learning models in production.
 
 My work spans the full data stack: **data engineering** (ETL, star schema, cloud-hosted warehouses), **machine learning** (deep learning, reinforcement learning, computer vision, NLP), and **deployment** (REST APIs, Docker, Streamlit, Hugging Face Spaces).
 
