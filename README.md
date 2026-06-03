@@ -56,10 +56,10 @@ Currently studying **Informatics Engineering** at **Telkom University**, Bandung
 
 ## Featured Projects
 
-### IDX Smart Rebalance — AI-Powered Portfolio Optimizer
+### IDX Smart Rebalance - AI-Powered Portfolio Optimizer
 > 🏆 **Top 7 Finalist** · Datathon Ristek Fasilkom UI 2025
 
-Given a portfolio amount in IDR, the system predicts 7-day volatility across 11 IDX sectors using deep learning (TFT, LSTM, N-HiTS, N-BEATS-X), then uses a **Soft Actor-Critic (SAC) reinforcement learning agent** to output optimal capital allocation weights — factoring in live market data and the Geopolitical Risk (GPR) Index.
+Given a portfolio amount in IDR, the system predicts 7-day volatility across 11 IDX sectors using deep learning (TFT, LSTM, N-HiTS, N-BEATS-X), then uses a **Soft Actor-Critic (SAC) reinforcement learning agent** to output optimal capital allocation weights. Factoring in live market data and the Geopolitical Risk (GPR) Index.
 
 `FastAPI` `NeuralForecast` `Stable-Baselines3` `Gymnasium` `Docker` `Hugging Face Spaces`
 
@@ -68,7 +68,7 @@ Given a portfolio amount in IDR, the system predicts 7-day volatility across 11 
 
 ---
 
-### Face Anti-Spoofing System — 96.6% Accuracy
+### Face Anti-Spoofing System - 96.6% Accuracy
 > 🏆 **Top 13** · FIND IT DAC UGM 2026
 
 6-class liveness detection (real vs. printed photo / screen replay / mask / mannequin) using a fine-tuned **DINOv3 ConvNeXt-Large** backbone with a residual adapter and test-time augmentation (6 forward passes). Includes manual cleaning of 219 mislabeled images and focal loss for class imbalance.
@@ -85,7 +85,7 @@ Given a portfolio amount in IDR, the system predicts 7-day volatility across 11 
 
 ---
 
-### Academic Chatbot RAG — Telkom University
+### Academic Chatbot RAG - Telkom University
 A production-deployed **Retrieval-Augmented Generation** chatbot answering academic procedure questions from official faculty documents. Implemented full RAG pipeline: PDF ingestion → Markdown cleaning → chunking → multilingual embeddings → FAISS retrieval → Gemini generation.
 
 `LangChain` `FAISS` `Gemini API` `Streamlit` `sentence-transformers`
