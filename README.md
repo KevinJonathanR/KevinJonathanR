@@ -104,18 +104,11 @@ End-to-end **3-layer ETL data warehouse** consolidating 4 years of research and 
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KevinJonathanR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinJonathanR&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KevinJonathanR&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinJonathanR&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
