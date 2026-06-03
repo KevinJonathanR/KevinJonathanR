@@ -7,6 +7,7 @@
 **Data Engineer & AI Practitioner** · West Java, Indonesia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevinjonathanrty-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinjonathanrty)
+[![Medium](https://img.shields.io/badge/Medium-@kevinjonathanrty-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@kevinjonathanrty)
 [![Email](https://img.shields.io/badge/Email-kevinjonathanrty%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kevinjonathanrty@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-KevinJonathanR-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/KevinJonathanR)
 
@@ -114,7 +115,7 @@ End-to-end **3-layer ETL data warehouse** consolidating 4 years of research and 
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=KevinJonathanR&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=KevinJonathanR&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
